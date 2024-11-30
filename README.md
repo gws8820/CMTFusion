@@ -4,7 +4,7 @@
 Official pytorch implementation for **"Cross-Modal Transformers for Infrared and Visible Image Fusion"**
 
 <p float="left">
-  &emsp;&emsp; <img src="figs/overview.PNG" width="800" />
+  &emsp;&emsp; <img src="overview.PNG" width="800" />
 </p>
 
 ## Preparation
